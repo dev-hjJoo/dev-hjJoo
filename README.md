@@ -43,7 +43,7 @@
 
 **네이버 클라우드 NAVER Cloud**
 
-- 경기도 성남시, 2024.08.12~2024.11.08 (현재 진행 중)
+- 경기도 성남시, 2024.08.12~2024.02.07 (현재 진행 중)
 - 인턴 | 역할: LLMOps 서비스(GCP VertexAI, AWS Sagemaker) 서베이 및 Streamlit 기반 LLMOps 서비스 개발 (FE/BE)
 
 **HAI LAB Human-AI Interaction LAB**
